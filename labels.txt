@@ -1,0 +1,10 @@
+None
+100_k
+10_k
+20_k
+2_k
+50_k
+5_k
+Poste
+Puerta
+Silla
